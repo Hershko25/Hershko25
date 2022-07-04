@@ -4,11 +4,17 @@ I'm a passionate Full Stack Developer with a strong desire to learn and grow.
 
 My top professional skills are:
 
-✔️ JavaScript and React
+✔️ React
+
+✔️ JavaScript  
 
 ✔️ Html & Css
 
+✔️ Node & express
+
 ✔️ C#
+
+✔️ MongoDB
 
 ✔️ SQL
 
